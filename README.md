@@ -4,6 +4,19 @@ PowerBi
 An advanced analytics project using Power BI to explore key global health indicators from 1999 to 2022 across 180+ countries. This dashboard provides a data-driven lens into life expectancy, child mortality, and HIV prevalence, three of the most critical metrics used to measure health system performance globally.
 
 ---
+**TABLE OF CONTENT**
+
+1. [Objective](#Objective)
+2. [Tools & Technologies](#Tools-&-Technologies)
+3. [Data Processing](#Data-Processing)
+4. [Feature Engineering](#Feature-Engineering)
+5. [Dashboard Highlights](#Dashboard-Highlights)
+6. [Key Insights](#Key-Insights)
+7. [Dashboard](#Dashboard)
+8. [Recommendations](Recommendations)
+9. [Conclusion](#Conclusion)
+
+---
 
 ## Objective
 
