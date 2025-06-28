@@ -91,7 +91,7 @@ Interactive slicers include Year and Country, supporting focused exploration.
 
 ---
 
-## Dashbord
+## Dashboard
 
 <img width="677" alt="Image" src="https://github.com/user-attachments/assets/e9217a8e-a5b0-459d-a2f9-ceca12fb1175" />
 
